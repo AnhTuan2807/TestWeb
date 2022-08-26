@@ -1,0 +1,31 @@
+.img2 {
+    padding: 50px 0;
+}
+.img2 > img {
+    width: 277.56px;
+    height: 173.19px;
+}
+.img3 {
+    padding: 30px;
+}
+.img4 {
+    width: 375px;
+    height: 360px;
+}
+.img5 {
+    padding-bottom: 30px;
+}
+.grid-container {
+    display: grid;
+    justify-content: space-evenly;
+    grid-template-columns: 150px 150px;
+    /* gap: 10px; */
+    padding: 10px;
+}
+  
+.grid-container > div {
+
+    text-align: center;
+    padding: 20px 0;
+    font-size: 30px;
+}
