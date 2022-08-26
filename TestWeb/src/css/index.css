@@ -43,10 +43,13 @@ hr {
 .topnav {
     overflow: hidden;
     position: relative;
+    display: flex;
+    justify-content: space-between;
   }
-  
   .topnav #myLinks {
     display: none;
+    /* display: block !important; */
+    margin-top: 0px !important;
   }
   
   .topnav a {
@@ -54,16 +57,20 @@ hr {
     padding: 14px 16px;
     text-decoration: none;
     font-size: 17px;
-    display: block;
+    /* display: block; */
+    /* display: none; */
+    float: left;
   }
   
   .topnav a.icon {
-
+    /* display: none; */
     display: block;
     position: absolute;
     right: 0;
     top: 0;
+    float: right;
   }
+
   
   .topnav a:hover {
     background-color: #ddd;
@@ -292,6 +299,30 @@ hr {
     /* color: white; */
     border-radius: 10px;
   }
+  /*Section1*/
+  .topnav #myLinks {
+    
+    display: block !important;
+    margin-right: 61px;
+    margin-top: 40px;
+  }
+  
+  .topnav a {
+    color: #344054;
+    padding: 14px 16px;
+    text-decoration: none;
+    font-size: 17px;
+    display: block;
+    
+  }
+  
+  .topnav a.icon {
+    display: none;
+    position: absolute;
+    right: 0;
+    top: 0;
+  }
+  
   /*Section2*/
   .grid-container {
     display: grid;
