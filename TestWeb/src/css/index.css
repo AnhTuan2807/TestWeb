@@ -47,7 +47,7 @@ hr {
     justify-content: space-between;
   }
   .topnav #myLinks {
-    display: none;
+    /* display: block; */
     /* display: block !important; */
     margin-top: 0px !important;
   }
@@ -78,6 +78,9 @@ hr {
   }
   .Logo {
     padding: 9px 0px 0px 14px;
+  }
+  .imgLogo2 {
+    padding: 17px 22px 0px 14px;
   }
 
 /*Section2*/
@@ -306,11 +309,26 @@ hr {
     border-radius: 10px;
   }
   /*Section1*/
+  
   .topnav #myLinks {
-    
-    display: block !important;
+    display: flex;
+    justify-content: center;
+    align-items: center;
     margin-right: 61px;
-    margin-top: 40px;
+    /* margin-top: 40px; */
+  }
+  
+  .topnav a {
+    color: #344054;
+    padding: 14px 16px;
+    text-decoration: none;
+    font-size: 17px;
+    display: block;
+    
+  }
+   .topnav #myLinks {
+    
+    
   }
   
   .topnav a {
@@ -420,10 +438,26 @@ hr {
   .button6 {
       padding: 12px 20px;
   }
+  
+  
+  /*footer*/
+  .grid-container1 {
+    display: grid;
+    grid-template-columns: auto auto auto auto auto auto;
+    gap: 60px;
+    padding: 40px 60px;
+  }
+}
+@media only screen and (max-width:376px) {
+  .hide{
+    display: none;
+  }
+  .imgLogo2 {
+    display: none;
+  }
   /*Section8*/
-  /* .myDIV {
-    display: flex;
-    justify-content: space-between;
+  .myDIV {
+    display: block;
   }
   .grid-container3 {
     display: grid;
@@ -438,14 +472,9 @@ hr {
   .item2 {
     padding: 10px 0 10px 0;
     display: flex;
-    
-  } */
-  
-  /*footer*/
-  .grid-container1 {
-    display: grid;
-    grid-template-columns: auto auto auto auto auto auto;
-    gap: 60px;
-    padding: 40px 60px;
+  }
+  .img6 {
+    width: 343px;
+    height: 240px;
   }
 }
