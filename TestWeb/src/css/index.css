@@ -230,25 +230,31 @@ hr {
   letter-spacing: -0.02em;
   color: #7F56D9;
 }
-.myDIV {
-  /* height:300px;
-  display: grid;
-  grid-template-columns: auto auto auto auto;
-  gap: 10px;
-  background-color: #2196F3;
-  padding: 10px; */
-  text-align: center;
-}
-.myDIV > div {
-  /* background-color: rgba(255, 255, 255, 0.8);
-  text-align: center;
-  padding: 20px 0;
-  font-size: 30px; */
-}
-.item1 {
-  /* grid-area: 1 / 3 / span 2 / span 3; */
-}
 
+.myDIV {
+  display: flex;
+  justify-content: space-between;
+}
+.grid-container3 {
+  display: grid;
+  grid-template-columns: auto auto;
+  gap: 10px;
+  text-align: center;
+  padding: 10px 0 10px 0;
+}
+.grid-container3 > .item1 {
+  padding: 20px 20px;
+}
+.item2 {
+  padding: 0px 40px 0px 0px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.img6 {
+  width: 560px;
+  height: 560px;
+}
 /*Section9*/
 .section9 {
   text-align: center;
@@ -414,7 +420,27 @@ hr {
   .button6 {
       padding: 12px 20px;
   }
-
+  /*Section8*/
+  /* .myDIV {
+    display: flex;
+    justify-content: space-between;
+  }
+  .grid-container3 {
+    display: grid;
+    grid-template-columns: auto;
+    gap: 10px;
+    text-align: center;
+    padding: 10px 0 10px 0;
+  }
+  .grid-container3 > .item1 {
+    padding: 20px 20px;
+  }
+  .item2 {
+    padding: 10px 0 10px 0;
+    display: flex;
+    
+  } */
+  
   /*footer*/
   .grid-container1 {
     display: grid;
