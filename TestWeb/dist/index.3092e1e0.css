@@ -1,21 +1,25 @@
 .button1 {
   color: #fff;
+  width: 100%;
   background-color: #7f56d9;
   border: none;
   border-radius: 8px;
-  padding: 10px 145px;
+  padding: 7px 0;
   font-size: 16px;
   line-height: 24px;
 }
 
 .button2 {
+  width: 100%;
   background-color: #fff;
   border: 1px solid #d0d5dd;
   border-radius: 8px;
-  padding: 10px 138px;
+  justify-content: center;
+  padding: 5px 0;
   font-size: 16px;
   font-weight: 500;
   line-height: 24px;
+  display: flex;
   box-shadow: 0 1px 2px #1018280d;
 }
 
@@ -29,11 +33,12 @@
 }
 
 .button5 {
+  width: 100%;
   color: #fff;
   background: #7f56d9;
   border: 1px solid #7f56d9;
   border-radius: 8px;
-  padding: 10px 138px;
+  padding: 5px 0;
   font-size: 16px;
   font-weight: 500;
   line-height: 24px;
@@ -42,10 +47,11 @@
 
 .button6 {
   color: #344054;
+  width: 100%;
   background-color: #fff;
   border: 1px solid #d0d5dd;
   border-radius: 8px;
-  padding: 10px 138px;
+  padding: 5px 0;
   font-size: 16px;
   font-weight: 500;
   line-height: 24px;
@@ -66,8 +72,8 @@
 }
 
 .img4 {
-  width: 375px;
   height: 360px;
+  width: 284px;
 }
 
 .img5 {
@@ -97,6 +103,10 @@ body {
   padding: 0;
   font-family: Arial, Helvetica, sans-serif;
   overflow-x: hidden;
+}
+
+.container, .section2, .section3, .section4, .section5, .section6, .section7, .section8, .section9, .footer-top, .topnav {
+  padding: 0 16px;
 }
 
 .mobile-container {
@@ -129,7 +139,9 @@ body {
 }
 
 hr {
-  width: 90%;
+  width: 100%;
+  color: #eaecf0;
+  border: 1px solid;
 }
 
 .topnav {
@@ -178,7 +190,7 @@ hr {
 }
 
 .section2_text {
-  padding: 55px 28px 16px;
+  padding: 55px 0 0;
 }
 
 .background {
@@ -363,7 +375,6 @@ hr {
 .section9 {
   text-align: center;
   background-color: #f9fafb;
-  padding: 20px 0 40px;
 }
 
 .grid-container1 {
@@ -393,7 +404,7 @@ hr {
 }
 
 .footer-bottom {
-  padding: 30px 15px;
+  padding: 30px 0;
 }
 
 .footer-content {

@@ -7,7 +7,9 @@ body {
     padding: 0px;
     font-family: Arial, Helvetica, sans-serif;
 }
-
+.container, .section2, .section3, .section4, .section5, .section6 , .section7 , .section8 , .section9, .footer-top, .topnav {
+  padding: 0 16px;
+}
 .mobile-container {
     /* max-width: 480px; */
     margin: auto;
@@ -37,7 +39,9 @@ body {
   color: #101828;
 }
 hr {
-  width: 90%;
+  width: 100%;
+  border: 1px solid;
+  color: #EAECF0;
 }
 /*Section1*/
 .topnav {
@@ -89,7 +93,7 @@ hr {
     background: rgba(255, 255, 255, 0.06);
 }
 .section2_text {
-    padding: 55px 28px 16px;
+  padding: 55px 0px 0px;
 }
 .background {
     background-color: #F9F5FF;
@@ -262,7 +266,6 @@ hr {
 .section9 {
   text-align: center;
   background-color: #F9FAFB;
-  padding: 20px 0 40px 0;
 }
 
 /* Footer*/
@@ -289,7 +292,7 @@ hr {
   line-height: 24px;
 }
 .footer-bottom {
-  padding: 30px 15px;
+  padding: 30px 0px;
 }
 .footer-content {
   padding: 10px 0;
