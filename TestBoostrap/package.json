@@ -1,0 +1,20 @@
+{
+  "name": "TestBoostrap",
+  "version": "1.0.0",
+  "description": "",
+  "source": "src/index.html",
+  "main": "index.js",
+  "scripts": {
+    "start": "parcel",
+    "build": "parcel build"
+  },
+  "author": "TuanAnh",
+  "license": "ISC",
+  "devDependencies": {
+    "parcel": "^2.7.0"
+  },
+  "dependencies": {
+    "bootstrap": "^5.2.0",
+    "bootstrap-icons": "^1.9.1"
+  }
+}
