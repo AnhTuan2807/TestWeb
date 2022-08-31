@@ -15,6 +15,7 @@
   border: 1px solid #d0d5dd;
   border-radius: 8px;
   justify-content: center;
+  align-items: center;
   padding: 5px 0;
   font-size: 16px;
   font-weight: 500;
@@ -132,6 +133,10 @@ body {
   line-height: 20px;
 }
 
+.section4 {
+  background-color: #f9fafb;
+}
+
 @media only screen and (min-width: 376px) {
   .flex-container {
     justify-content: center;
@@ -140,6 +145,14 @@ body {
 
   .flex-container > div {
     margin: 10px;
+  }
+
+  .flex-container > div:last-child {
+    padding-top: 0;
+  }
+
+  .button1, .button2 {
+    padding: 7px 35px;
   }
 
   .grid-container {
@@ -157,6 +170,13 @@ body {
   .section3_content {
     font-size: 16px;
     line-height: 24px;
+  }
+
+  .grid-container2 {
+    grid-template-columns: auto auto auto;
+    gap: 10px;
+    padding: 10px;
+    display: grid;
   }
 }
 
