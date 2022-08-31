@@ -80,6 +80,20 @@ body {
   line-height: 28px;
 }
 
+.H7 {
+  color: #667085;
+  font-size: 20px;
+  font-weight: 400;
+  line-height: 30px;
+}
+
+.H8 {
+  color: #667085;
+  font-size: 16px;
+  font-weight: 400;
+  line-height: 24px;
+}
+
 .header {
   background: #ffffff0f;
 }
@@ -137,6 +151,20 @@ body {
   background-color: #f9fafb;
 }
 
+.section5 > div > .features_content {
+  color: #6941c6;
+  background-color: #f9f5ff;
+  border: none;
+  border-radius: 8px;
+}
+
+.features_content {
+  color: #6941c6;
+  font-size: 12px;
+  font-weight: 500;
+  line-height: 18px;
+}
+
 @media only screen and (min-width: 376px) {
   .flex-container {
     justify-content: center;
@@ -177,6 +205,10 @@ body {
     gap: 10px;
     padding: 10px;
     display: grid;
+  }
+
+  .section5 > div > .H7 {
+    padding: 0 157px;
   }
 }
 

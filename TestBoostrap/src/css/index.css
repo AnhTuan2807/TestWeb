@@ -45,6 +45,18 @@ body {
     line-height: 28px;
     color: #101828;
 }
+.H7 {
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 30px;
+    color: #667085;
+}
+.H8 {
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 24px;
+    color: #667085;
+}
 .header {
     background: rgba(255, 255, 255, 0.06);
 }
@@ -99,7 +111,20 @@ body {
 /*Section4*/
 .section4 {
     background-color: #F9FAFB;
-  }
+}
+/*Section5*/
+.section5 > div > .features_content {
+    color:#6941C6;
+    background-color: #F9F5FF;
+    border-radius: 8px;
+    border: none;
+}
+.features_content {
+    font-weight: 500;
+    font-size: 12px;
+    line-height: 18px;
+    color:#6941C6;
+}
 
 @media only screen and (min-width:376px) {
    /*Section2*/
@@ -139,5 +164,9 @@ body {
         grid-template-columns: auto auto auto ;
         gap: 10px;
         padding: 10px;
+    }
+    /*Section5*/
+    .section5 > div > .H7 {
+        padding: 0px 157px;
     }
 }
