@@ -1,4 +1,4 @@
-6556
+6558
 94D:\Github\TestWeb\TestBoostrap\node_modules\caniuse-lite\data\features\css-deviceadaptation.js133061583321311096 0
 87D:\Github\TestWeb\TestBoostrap\node_modules\bootstrap-icons\icons\file-earmark-word.svg133061586324638241 0
 89D:\Github\TestWeb\TestBoostrap\node_modules\bootstrap-icons\icons\postcard-heart-fill.svg133061586327620746 0
@@ -27,7 +27,7 @@
 76D:\Github\TestWeb\TestBoostrap\node_modules\bootstrap-icons\icons\memory.svg133061586326788370 0
 75D:\Github\TestWeb\TestBoostrap\node_modules\cosmiconfig\dist\loaders.js.map133061583313777374 0
 80D:\Github\TestWeb\TestBoostrap\node_modules\dom-serializer\node_modules\entities133061583311663022 1
-35D:\Github\TestWeb\TestBoostrap\dist133063221492828988 1
+35D:\Github\TestWeb\TestBoostrap\dist133069281251286724 1
 80D:\Github\TestWeb\TestBoostrap\node_modules\bootstrap-icons\icons\file-minus.svg133061586324734450 0
 89D:\Github\TestWeb\TestBoostrap\node_modules\caniuse-lite\data\features\rest-parameters.js133061583363884299 0
 68D:\Github\TestWeb\TestBoostrap\node_modules\abortcontroller-polyfill133061583311553332 1
@@ -71,8 +71,8 @@
 69D:\Github\TestWeb\TestBoostrap\node_modules\svgo\dist\svgo.browser.js133061583318924119 0
 88D:\Github\TestWeb\TestBoostrap\node_modules\bootstrap-icons\icons\emoji-neutral-fill.svg133061586323752123 0
 106D:\Github\TestWeb\TestBoostrap\node_modules\htmlnano\docs\versioned_docs\version-2.0.0\010-introduction.md133061583317680924 0
-38D:\Github\TestWeb\TestBoostrap\src\css133062384548245088 1
-45D:\Github\TestWeb\TestBoostrap\src\index.html133063221490707401 0
+38D:\Github\TestWeb\TestBoostrap\src\css133064083082035363 1
+45D:\Github\TestWeb\TestBoostrap\src\index.html133069277721447311 0
 71D:\Github\TestWeb\TestBoostrap\node_modules\lmdb\src\ordered-binary.cpp133061583320044548 0
 57D:\Github\TestWeb\TestBoostrap\node_modules\svgo\bin\svgo133061583303156808 0
 77D:\Github\TestWeb\TestBoostrap\node_modules\bootstrap-icons\icons\cup-hot.svg133061586323151410 0
@@ -218,9 +218,6 @@
 85D:\Github\TestWeb\TestBoostrap\node_modules\caniuse-lite\data\features\text-stroke.js133061583364391538 0
 81D:\Github\TestWeb\TestBoostrap\node_modules\bootstrap-icons\icons\cursor-fill.svg133061586323199079 0
 47D:\Github\TestWeb\TestBoostrap\src\img\Logo.png133054731114835751 0
-81D:\Github\TestWeb\TestBoostrap\node_modules\source-map\dist\source-map.min.js.map133061583314714861 0
-91D:\Github\TestWeb\TestBoostrap\node_modules\bootstrap-icons\icons\sign-stop-lights-fill.svg133061586328307871 0
-62D:\Github\TestWeb\TestBoostrap\node_modules\nullthrows\LICENSE133061583300611541 0
 48D:\Github\TestWeb\TestBoostrap\src\img\Image.png133057265214536167 0
 49D:\Github\TestWeb\TestBoostrap\node_modules\tslib133061583310675674 1
 54D:\Github\TestWeb\TestBoostrap\src\img\LogoCatalog.png133056152595361774 0
@@ -262,9 +259,29 @@
 91D:\Github\TestWeb\TestBoostrap\node_modules\caniuse-lite\data\features\createimagebitmap.js133061583320792494 0
 55D:\Github\TestWeb\TestBoostrap\src\img\LogoSisyphus.png133056153688039580 0
 82D:\Github\TestWeb\TestBoostrap\node_modules\bootstrap-icons\icons\file-earmark.svg133061586324661651 0
+100D:\Github\TestWeb\TestBoostrap\node_modules\@babel\highlight\node_modules\color-convert\CHANGELOG.md133061583300631493 0
+84D:\Github\TestWeb\TestBoostrap\node_modules\@parcel\codeframe\test\codeframe.test.js133061583313907025 0
+83D:\Github\TestWeb\TestBoostrap\node_modules\bootstrap-icons\icons\person-square.svg133061586327374491 0
+50D:\Github\TestWeb\TestBoostrap\node_modules\@lezer133061583287775829 1
+91D:\Github\TestWeb\TestBoostrap\node_modules\bootstrap-icons\icons\emoji-sunglasses-fill.svg133061586323792018 0
+59D:\Github\TestWeb\TestBoostrap\node_modules\.bin\terser.ps1133061583365273603 0
+75D:\Github\TestWeb\TestBoostrap\node_modules\caniuse-lite\data\regions\CH.js133061583319954735 0
+49D:\Github\TestWeb\TestBoostrap\src\css\button.css133068446835040048 0
+76D:\Github\TestWeb\TestBoostrap\node_modules\bootstrap-icons\icons\dice-1.svg133061586323394670 0
+62D:\Github\TestWeb\TestBoostrap\node_modules\has-flag\readme.md133061583307121927 0
+82D:\Github\TestWeb\TestBoostrap\node_modules\@parcel\transformer-babel\src\types.js133061583312401051 0
+54D:\Github\TestWeb\TestBoostrap\node_modules\color-name133061583304242826 1
+87D:\Github\TestWeb\TestBoostrap\node_modules\caniuse-lite\data\features\notifications.js133061583361008066 0
+46D:\Github\TestWeb\TestBoostrap\src\css\img.css133064083640089360 0
+95D:\Github\TestWeb\TestBoostrap\node_modules\bootstrap-icons\icons\exclamation-triangle-fill.svg133061586324141503 0
+83D:\Github\TestWeb\TestBoostrap\node_modules\@parcel\packager-raw\src\RawPackager.js133061583304107082 0
+60D:\Github\TestWeb\TestBoostrap\node_modules\svgo\lib\xast.js133061583318983957 0
+81D:\Github\TestWeb\TestBoostrap\node_modules\css-tree\lib\syntax\node\Dimension.js133061583316453184 0
+97D:\Github\TestWeb\TestBoostrap\node_modules\@parcel\runtime-js\src\helpers\browser\wasm-loader.js133061583315632439 0
+49D:\Github\TestWeb\TestBoostrap\node_modules\clone133061583308177828 1
 89D:\Github\TestWeb\TestBoostrap\node_modules\@parcel\runtime-js\src\helpers\cacheLoader.js133061583309887775 0
 96D:\Github\TestWeb\TestBoostrap\node_modules\@popperjs\core\lib\dom-utils\getViewportRect.js.flow133062378718678829 0
-48D:\Github\TestWeb\TestBoostrap\src\css\index.css133063214344097453 0
+48D:\Github\TestWeb\TestBoostrap\src\css\index.css133069281777856307 0
 76D:\Github\TestWeb\TestBoostrap\node_modules\svgo\plugins\sortDefsChildren.js133061583318611381 0
 57D:\Github\TestWeb\TestBoostrap\node_modules\lmdb\write.js133061583321261242 0
 78D:\Github\TestWeb\TestBoostrap\node_modules\bootstrap-icons\icons\5-circle.svg133061586318453265 0
@@ -276,10 +293,6 @@
 75D:\Github\TestWeb\TestBoostrap\node_modules\css-tree\lib\lexer\structure.js133061583320662820 0
 50D:\Github\TestWeb\TestBoostrap\node_modules\@babel133061583287775829 1
 96D:\Github\TestWeb\TestBoostrap\node_modules\bootstrap-icons\icons\arrow-up-right-circle-fill.svg133061586318995426 0
-100D:\Github\TestWeb\TestBoostrap\node_modules\@babel\highlight\node_modules\color-convert\CHANGELOG.md133061583300631493 0
-84D:\Github\TestWeb\TestBoostrap\node_modules\@parcel\codeframe\test\codeframe.test.js133061583313907025 0
-83D:\Github\TestWeb\TestBoostrap\node_modules\bootstrap-icons\icons\person-square.svg133061586327374491 0
-50D:\Github\TestWeb\TestBoostrap\node_modules\@lezer133061583287775829 1
 63D:\Github\TestWeb\TestBoostrap\node_modules\detect-libc\LICENSE133061583304633064 0
 53D:\Github\TestWeb\TestBoostrap\node_modules\@popperjs133062378714558071 1
 90D:\Github\TestWeb\TestBoostrap\node_modules\@parcel\node-resolver-core\src\NodeResolver.js133061583318430363 0
@@ -342,15 +355,6 @@
 76D:\Github\TestWeb\TestBoostrap\node_modules\bootstrap-icons\icons\filter.svg133061586325449148 0
 80D:\Github\TestWeb\TestBoostrap\node_modules\svgo\plugins\removeElementsByAttr.js133061583316777179 0
 49D:\Github\TestWeb\TestBoostrap\node_modules\chalk133061583308979296 1
-82D:\Github\TestWeb\TestBoostrap\node_modules\@parcel\transformer-babel\src\types.js133061583312401051 0
-54D:\Github\TestWeb\TestBoostrap\node_modules\color-name133061583304242826 1
-87D:\Github\TestWeb\TestBoostrap\node_modules\caniuse-lite\data\features\notifications.js133061583361008066 0
-95D:\Github\TestWeb\TestBoostrap\node_modules\bootstrap-icons\icons\exclamation-triangle-fill.svg133061586324141503 0
-83D:\Github\TestWeb\TestBoostrap\node_modules\@parcel\packager-raw\src\RawPackager.js133061583304107082 0
-60D:\Github\TestWeb\TestBoostrap\node_modules\svgo\lib\xast.js133061583318983957 0
-81D:\Github\TestWeb\TestBoostrap\node_modules\css-tree\lib\syntax\node\Dimension.js133061583316453184 0
-97D:\Github\TestWeb\TestBoostrap\node_modules\@parcel\runtime-js\src\helpers\browser\wasm-loader.js133061583315632439 0
-49D:\Github\TestWeb\TestBoostrap\node_modules\clone133061583308177828 1
 75D:\Github\TestWeb\TestBoostrap\node_modules\caniuse-lite\data\regions\MT.js133061583360718971 0
 86D:\Github\TestWeb\TestBoostrap\node_modules\terser\node_modules\commander\CHANGELOG.md133061583304712858 0
 89D:\Github\TestWeb\TestBoostrap\node_modules\caniuse-lite\data\features\arrow-functions.js133061583314934270 0
@@ -803,7 +807,6 @@
 80D:\Github\TestWeb\TestBoostrap\node_modules\bootstrap-icons\icons\easel-fill.svg133061586323572595 0
 70D:\Github\TestWeb\TestBoostrap\node_modules\@parcel\cache\package.json133061583311433648 0
 60D:\Github\TestWeb\TestBoostrap\node_modules\semver\README.md133061583309478860 0
-91D:\Github\TestWeb\TestBoostrap\node_modules\bootstrap-icons\icons\tablet-landscape-fill.svg133061586328910994 0
 86D:\Github\TestWeb\TestBoostrap\node_modules\@popperjs\core\dist\esm\modifiers\arrow.js133062378721261806 0
 82D:\Github\TestWeb\TestBoostrap\node_modules\type-fest\source\conditional-pick.d.ts133061583310735514 0
 103D:\Github\TestWeb\TestBoostrap\node_modules\@popperjs\core\lib\utils\getOppositeVariationPlacement.d.ts133062378720410024 0
@@ -1448,9 +1451,9 @@
 92D:\Github\TestWeb\TestBoostrap\node_modules\bootstrap-icons\icons\arrow-down-square-fill.svg133061586318845777 0
 72D:\Github\TestWeb\TestBoostrap\node_modules\msgpackr-extract\src\.vs\src133061583300352238 1
 85D:\Github\TestWeb\TestBoostrap\node_modules\svgo\plugins\removeUnknownsAndDefaults.js133061583318123288 0
-69D:\Github\TestWeb\TestBoostrap\node_modules\terser\dist\bundle.min.js133061583313168995 0
 106D:\Github\TestWeb\TestBoostrap\node_modules\@parcel\core\test\fixtures\custom-format-mismatch\package.json133061583325488671 0
 60D:\Github\TestWeb\TestBoostrap\node_modules\htmlnano\test.js133061583314734808 0
+69D:\Github\TestWeb\TestBoostrap\node_modules\terser\dist\bundle.min.js133061583313168995 0
 74D:\Github\TestWeb\TestBoostrap\node_modules\svgo\plugins\removeUnusedNS.js133061583318186267 0
 64D:\Github\TestWeb\TestBoostrap\node_modules\term-size\index.d.ts133061583310366496 0
 85D:\Github\TestWeb\TestBoostrap\node_modules\bootstrap-icons\icons\clipboard-pulse.svg133061586322517367 0
@@ -1462,12 +1465,12 @@
 67D:\Github\TestWeb\TestBoostrap\node_modules\source-map\package.json133061583299335879 0
 81D:\Github\TestWeb\TestBoostrap\node_modules\svgo\lib\svgo\css-select-adapter.d.ts133061583319202467 0
 76D:\Github\TestWeb\TestBoostrap\node_modules\term-size\vendor\macos\.DS_Store133061583303555201 0
-89D:\Github\TestWeb\TestBoostrap\node_modules\caniuse-lite\data\features\text-decoration.js133061583364375977 0
-77D:\Github\TestWeb\TestBoostrap\node_modules\electron-to-chromium\package.json133061583310984835 0
-53D:\Github\TestWeb\TestBoostrap\node_modules\svgo\dist133061583318778290 1
 75D:\Github\TestWeb\TestBoostrap\node_modules\caniuse-lite\data\regions\PT.js133061583363724348 0
 70D:\Github\TestWeb\TestBoostrap\node_modules\csso\lib\replace\Number.js133061583315801955 0
 54D:\Github\TestWeb\TestBoostrap\node_modules\semver\bin133061583300601570 1
+89D:\Github\TestWeb\TestBoostrap\node_modules\caniuse-lite\data\features\text-decoration.js133061583364375977 0
+77D:\Github\TestWeb\TestBoostrap\node_modules\electron-to-chromium\package.json133061583310984835 0
+53D:\Github\TestWeb\TestBoostrap\node_modules\svgo\dist133061583318778290 1
 71D:\Github\TestWeb\TestBoostrap\node_modules\svgo\plugins\removeAttrs.js133061583316151224 0
 85D:\Github\TestWeb\TestBoostrap\node_modules\bootstrap-icons\icons\thermometer-low.svg133061586329143055 0
 52D:\Github\TestWeb\TestBoostrap\node_modules\svgo\lib133061583319222414 1
@@ -1673,6 +1676,9 @@
 80D:\Github\TestWeb\TestBoostrap\node_modules\bootstrap-icons\icons\file-music.svg133061586324744418 0
 77D:\Github\TestWeb\TestBoostrap\node_modules\source-map\dist\source-map.min.js133061583313877106 0
 89D:\Github\TestWeb\TestBoostrap\node_modules\bootstrap-icons\icons\calendar3-week-fill.svg133061586321647695 0
+81D:\Github\TestWeb\TestBoostrap\node_modules\source-map\dist\source-map.min.js.map133061583314714861 0
+91D:\Github\TestWeb\TestBoostrap\node_modules\bootstrap-icons\icons\sign-stop-lights-fill.svg133061586328307871 0
+62D:\Github\TestWeb\TestBoostrap\node_modules\nullthrows\LICENSE133061583300611541 0
 78D:\Github\TestWeb\TestBoostrap\node_modules\bootstrap-icons\icons\8-square.svg133061586318535298 0
 69D:\Github\TestWeb\TestBoostrap\node_modules\caniuse-lite\package.json133061583365034236 0
 90D:\Github\TestWeb\TestBoostrap\node_modules\bootstrap-icons\icons\calendar3-event-fill.svg133061586321617791 0
@@ -2409,11 +2415,6 @@
 60D:\Github\TestWeb\TestBoostrap\node_modules\has-flag\license133061583304362544 0
 80D:\Github\TestWeb\TestBoostrap\node_modules\bootstrap-icons\icons\cloud-snow.svg133061586322906640 0
 65D:\Github\TestWeb\TestBoostrap\node_modules\has-flag\package.json133061583299359044 0
-91D:\Github\TestWeb\TestBoostrap\node_modules\bootstrap-icons\icons\emoji-sunglasses-fill.svg133061586323792018 0
-59D:\Github\TestWeb\TestBoostrap\node_modules\.bin\terser.ps1133061583365273603 0
-75D:\Github\TestWeb\TestBoostrap\node_modules\caniuse-lite\data\regions\CH.js133061583319954735 0
-76D:\Github\TestWeb\TestBoostrap\node_modules\bootstrap-icons\icons\dice-1.svg133061586323394670 0
-62D:\Github\TestWeb\TestBoostrap\node_modules\has-flag\readme.md133061583307121927 0
 114D:\Github\TestWeb\TestBoostrap\node_modules\@parcel\node-resolver-core\test\fixture\packages\source-alias\other.js133061583318460494 0
 62D:\Github\TestWeb\TestBoostrap\node_modules\globals\index.d.ts133061583308733944 0
 87D:\Github\TestWeb\TestBoostrap\node_modules\caniuse-lite\data\features\object-values.js133061583363178265 0
@@ -3190,7 +3191,7 @@
 75D:\Github\TestWeb\TestBoostrap\node_modules\caniuse-lite\data\regions\JM.js133061583349372880 0
 75D:\Github\TestWeb\TestBoostrap\node_modules\caniuse-lite\data\regions\KR.js133061583349552468 0
 89D:\Github\TestWeb\TestBoostrap\node_modules\bootstrap-icons\icons\hand-thumbs-up-fill.svg133061586325888868 0
-64D:\Github\TestWeb\TestBoostrap\dist\FeaturedBoxChat.db3a622d.png133063220098073643 0
+64D:\Github\TestWeb\TestBoostrap\dist\FeaturedBoxChat.db3a622d.png133068456895354383 0
 86D:\Github\TestWeb\TestBoostrap\node_modules\bootstrap-icons\icons\fast-forward-btn.svg133061586324216280 0
 86D:\Github\TestWeb\TestBoostrap\node_modules\caniuse-lite\data\features\magnetometer.js133061583354926397 0
 96D:\Github\TestWeb\TestBoostrap\node_modules\caniuse-lite\data\features\scrollintoviewifneeded.js133061583364006895 0
@@ -3396,7 +3397,7 @@
 89D:\Github\TestWeb\TestBoostrap\node_modules\caniuse-lite\data\features\css-containment.js133061583321211371 0
 96D:\Github\TestWeb\TestBoostrap\node_modules\caniuse-lite\data\features\css-content-visibility.js133061583321221331 0
 79D:\Github\TestWeb\TestBoostrap\node_modules\bootstrap-icons\icons\chat-left.svg133061586322129515 0
-61D:\Github\TestWeb\TestBoostrap\dist\Avatar group.d8897ff0.png133063220097914076 0
+61D:\Github\TestWeb\TestBoostrap\dist\Avatar group.d8897ff0.png133068456895334327 0
 86D:\Github\TestWeb\TestBoostrap\node_modules\bootstrap-icons\icons\arrow-90deg-down.svg133061586318694638 0
 89D:\Github\TestWeb\TestBoostrap\node_modules\caniuse-lite\data\features\css-crisp-edges.js133061583321241294 0
 103D:\Github\TestWeb\TestBoostrap\node_modules\@parcel\core\test\fixtures\application-targets\package.json133061583325448769 0
@@ -3951,7 +3952,7 @@
 86D:\Github\TestWeb\TestBoostrap\node_modules\bootstrap-icons\icons\info-square-fill.svg133061586326197357 0
 81D:\Github\TestWeb\TestBoostrap\node_modules\bootstrap\scss\mixins\_utilities.scss133062378724846759 0
 97D:\Github\TestWeb\TestBoostrap\node_modules\bootstrap-icons\icons\arrow-down-left-square-fill.svg133061586318795351 0
-61D:\Github\TestWeb\TestBoostrap\dist\FeaturedIcon.ba7f02e0.png133063220097914076 0
+61D:\Github\TestWeb\TestBoostrap\dist\FeaturedIcon.ba7f02e0.png133068456895334327 0
 81D:\Github\TestWeb\TestBoostrap\node_modules\bootstrap-icons\icons\info-square.svg133061586326197357 0
 103D:\Github\TestWeb\TestBoostrap\node_modules\@jridgewell\sourcemap-codec\dist\types\sourcemap-codec.d.ts133061583309847872 0
 92D:\Github\TestWeb\TestBoostrap\node_modules\bootstrap-icons\icons\arrow-down-left-square.svg133061586318795351 0
@@ -4849,7 +4850,7 @@
 93D:\Github\TestWeb\TestBoostrap\node_modules\@babel\highlight\node_modules\color-name\index.js133061583307341321 0
 103D:\Github\TestWeb\TestBoostrap\node_modules\@jridgewell\sourcemap-codec\dist\sourcemap-codec.umd.js.map133061583307680419 0
 82D:\Github\TestWeb\TestBoostrap\node_modules\bootstrap-icons\icons\paint-bucket.svg133061586327085410 0
-62D:\Github\TestWeb\TestBoostrap\dist\LogoCircooles.8f96860f.png133063220098073643 0
+62D:\Github\TestWeb\TestBoostrap\dist\LogoCircooles.8f96860f.png133068456895354383 0
 78D:\Github\TestWeb\TestBoostrap\node_modules\bootstrap-icons\icons\palette2.svg133061586327095381 0
 79D:\Github\TestWeb\TestBoostrap\node_modules\bootstrap-icons\icons\paperclip.svg133061586327095381 0
 83D:\Github\TestWeb\TestBoostrap\node_modules\bootstrap\js\src\dom\selector-engine.js133062378720249098 0
@@ -5029,6 +5030,7 @@
 59D:\Github\TestWeb\TestBoostrap\node_modules\.bin\semver.ps1133061583365273603 0
 75D:\Github\TestWeb\TestBoostrap\node_modules\bootstrap-icons\icons\table.svg133061586328901022 0
 81D:\Github\TestWeb\TestBoostrap\node_modules\bootstrap-icons\icons\tablet-fill.svg133061586328901022 0
+91D:\Github\TestWeb\TestBoostrap\node_modules\bootstrap-icons\icons\tablet-landscape-fill.svg133061586328910994 0
 76D:\Github\TestWeb\TestBoostrap\node_modules\bootstrap-icons\icons\tablet.svg133061586328910994 0
 78D:\Github\TestWeb\TestBoostrap\node_modules\bootstrap-icons\icons\telegram.svg133061586328930938 0
 84D:\Github\TestWeb\TestBoostrap\node_modules\bootstrap-icons\icons\telephone-fill.svg133061586328940918 0
@@ -5828,7 +5830,7 @@
 72D:\Github\TestWeb\TestBoostrap\node_modules\@parcel\watcher\src\Event.hh133061583313288678 0
 69D:\Github\TestWeb\TestBoostrap\node_modules\@parcel\watcher\src\linux133061583313508084 1
 80D:\Github\TestWeb\TestBoostrap\node_modules\@parcel\watcher\src\PromiseRunner.hh133061583313867134 0
-53D:\Github\TestWeb\TestBoostrap\dist\Logo.de93424c.png133063220097904094 0
+53D:\Github\TestWeb\TestBoostrap\dist\Logo.de93424c.png133068456893541806 0
 70D:\Github\TestWeb\TestBoostrap\node_modules\@parcel\watcher\src\shared133061583312480834 1
 73D:\Github\TestWeb\TestBoostrap\node_modules\@parcel\watcher\src\Signal.hh133061583313996784 0
 74D:\Github\TestWeb\TestBoostrap\node_modules\@parcel\watcher\src\Watcher.cc133061583311094548 0
@@ -5839,7 +5841,7 @@
 84D:\Github\TestWeb\TestBoostrap\node_modules\@parcel\watcher\src\windows\win_utils.hh133061583314425639 0
 80D:\Github\TestWeb\TestBoostrap\node_modules\@parcel\watcher\src\watchman\BSER.cc133061583308207734 0
 80D:\Github\TestWeb\TestBoostrap\node_modules\@parcel\watcher\src\watchman\BSER.hh133061583312750119 0
-46D:\Github\TestWeb\TestBoostrap\dist\index.html133063221492828988 0
+46D:\Github\TestWeb\TestBoostrap\dist\index.html133069277732186270 0
 121D:\Github\TestWeb\TestBoostrap\node_modules\@parcel\node-resolver-core\test\fixture\node_modules\package-module\module.js133061583318166085 0
 91D:\Github\TestWeb\TestBoostrap\node_modules\@parcel\watcher\src\watchman\WatchmanBackend.cc133061583311403723 0
 72D:\Github\TestWeb\TestBoostrap\node_modules\@parcel\transformer-html\lib133061583308531046 1
@@ -6012,7 +6014,7 @@
 116D:\Github\TestWeb\TestBoostrap\node_modules\@parcel\source-map\parcel_sourcemap_node\artifacts\index.darwin-x64.node133061583316036288 0
 112D:\Github\TestWeb\TestBoostrap\node_modules\@parcel\core\test\fixtures\targets-default-distdir-none\package.json133061583326600995 0
 125D:\Github\TestWeb\TestBoostrap\node_modules\@parcel\source-map\parcel_sourcemap_node\artifacts\index.linux-arm-gnueabihf.node133061583317036799 0
-60D:\Github\TestWeb\TestBoostrap\dist\TestBoostrap.59712999.js133063220097993875 0
+60D:\Github\TestWeb\TestBoostrap\dist\TestBoostrap.59712999.js133068456895334327 0
 121D:\Github\TestWeb\TestBoostrap\node_modules\@parcel\source-map\parcel_sourcemap_node\artifacts\index.linux-arm64-gnu.node133061583318082006 0
 122D:\Github\TestWeb\TestBoostrap\node_modules\@parcel\source-map\parcel_sourcemap_node\artifacts\index.linux-arm64-musl.node133061583318629760 0
 119D:\Github\TestWeb\TestBoostrap\node_modules\@parcel\source-map\parcel_sourcemap_node\artifacts\index.linux-x64-gnu.node133061583319004198 0
@@ -6199,7 +6201,7 @@
 118D:\Github\TestWeb\TestBoostrap\node_modules\@parcel\node-resolver-core\test\fixture\node_modules\package-alias-exclude133061583319262294 1
 143D:\Github\TestWeb\TestBoostrap\node_modules\@parcel\node-resolver-core\test\fixture\node_modules\side-effects-package-redirect-down\foo\bar\baz133061583320044548 1
 112D:\Github\TestWeb\TestBoostrap\node_modules\@parcel\node-resolver-core\test\fixture\node_modules\package-browser133061583319371996 1
-56D:\Github\TestWeb\TestBoostrap\dist\Avatar1.413964c4.png133063220097336425 0
+56D:\Github\TestWeb\TestBoostrap\dist\Avatar1.413964c4.png133068456896162323 0
 120D:\Github\TestWeb\TestBoostrap\node_modules\@parcel\node-resolver-core\test\fixture\node_modules\package-browser-exclude133061583319342072 1
 113D:\Github\TestWeb\TestBoostrap\node_modules\@parcel\node-resolver-core\test\fixture\node_modules\package-fallback133061583319381970 1
 119D:\Github\TestWeb\TestBoostrap\node_modules\@parcel\node-resolver-core\test\fixture\node_modules\package-main-directory133061583319431837 1
@@ -6372,7 +6374,7 @@
 78D:\Github\TestWeb\TestBoostrap\node_modules\@parcel\core\src\Transformation.js133061583321470664 0
 69D:\Github\TestWeb\TestBoostrap\node_modules\@parcel\core\src\types.js133061583321490613 0
 69D:\Github\TestWeb\TestBoostrap\node_modules\@parcel\core\src\utils.js133061583321570412 0
-61D:\Github\TestWeb\TestBoostrap\dist\FeaturedChar.4b33e953.png133063220097904094 0
+61D:\Github\TestWeb\TestBoostrap\dist\FeaturedChar.4b33e953.png133068456895334327 0
 70D:\Github\TestWeb\TestBoostrap\node_modules\@parcel\core\src\worker.js133061583323153642 0
 90D:\Github\TestWeb\TestBoostrap\node_modules\@parcel\core\src\requests\AssetGraphRequest.js133061583314126451 0
 91D:\Github\TestWeb\TestBoostrap\node_modules\@parcel\core\src\requests\BundleGraphRequest.js133061583316514067 0
@@ -6536,22 +6538,22 @@
 55D:\Github\TestWeb\TestBoostrap\node_modules\.bin\parcel133061583365273603 0
 55D:\Github\TestWeb\TestBoostrap\node_modules\.bin\semver133061583365273603 0
 55D:\Github\TestWeb\TestBoostrap\node_modules\.bin\terser133061583365273603 0
-55D:\Github\TestWeb\TestBoostrap\dist\Avatar.73d53c39.png133063220098073643 0
-56D:\Github\TestWeb\TestBoostrap\dist\Content.22f4ca5e.png133063220097914076 0
-61D:\Github\TestWeb\TestBoostrap\dist\FeaturedMail.1f4f0848.png133063220097336425 0
-60D:\Github\TestWeb\TestBoostrap\dist\FeaturedSet.e4386993.png133063220098073643 0
-62D:\Github\TestWeb\TestBoostrap\dist\FeaturedSmile.f7901efd.png133063220097326443 0
-53D:\Github\TestWeb\TestBoostrap\dist\Icon.060bc6b9.png133063220097316475 0
-54D:\Github\TestWeb\TestBoostrap\dist\Icon2.7eb8bddf.png133063220097904094 0
-58D:\Github\TestWeb\TestBoostrap\dist\Iconwrap+.63e322f7.png133063220097326443 0
-58D:\Github\TestWeb\TestBoostrap\dist\Iconwrap-.80897e52.png133063220098073643 0
-54D:\Github\TestWeb\TestBoostrap\dist\Image.613e6504.png133063220098093589 0
-54D:\Github\TestWeb\TestBoostrap\dist\index.3092e1e0.css133063220097963956 0
-58D:\Github\TestWeb\TestBoostrap\dist\index.3092e1e0.css.map133063220097983881 0
-60D:\Github\TestWeb\TestBoostrap\dist\LogoCatalog.04786d95.png133063220097316475 0
-62D:\Github\TestWeb\TestBoostrap\dist\LogoHourglass.1eebf6c3.png133063220098073643 0
-59D:\Github\TestWeb\TestBoostrap\dist\LogoLayers.943a146f.png133063220097326443 0
-61D:\Github\TestWeb\TestBoostrap\dist\LogoQuotient.9519472d.png133063220097904094 0
-61D:\Github\TestWeb\TestBoostrap\dist\LogoSisyphus.832b56f2.png133063220097904094 0
-70D:\Github\TestWeb\TestBoostrap\dist\Macbook Pro 16 mockup.b42e632b.png133063220098073643 0
-64D:\Github\TestWeb\TestBoostrap\dist\TestBoostrap.59712999.js.map133063220098013965 0
+55D:\Github\TestWeb\TestBoostrap\dist\Avatar.73d53c39.png133068456895354383 0
+56D:\Github\TestWeb\TestBoostrap\dist\Content.22f4ca5e.png133068456895334327 0
+61D:\Github\TestWeb\TestBoostrap\dist\FeaturedMail.1f4f0848.png133068456895842963 0
+60D:\Github\TestWeb\TestBoostrap\dist\FeaturedSet.e4386993.png133068456895354383 0
+62D:\Github\TestWeb\TestBoostrap\dist\FeaturedSmile.f7901efd.png133068456895842963 0
+53D:\Github\TestWeb\TestBoostrap\dist\Icon.060bc6b9.png133068456895842963 0
+54D:\Github\TestWeb\TestBoostrap\dist\Icon2.7eb8bddf.png133068456895324371 0
+58D:\Github\TestWeb\TestBoostrap\dist\Iconwrap+.63e322f7.png133068456895842963 0
+58D:\Github\TestWeb\TestBoostrap\dist\Iconwrap-.80897e52.png133068456895364273 0
+54D:\Github\TestWeb\TestBoostrap\dist\Image.613e6504.png133068456895404154 0
+54D:\Github\TestWeb\TestBoostrap\dist\index.3092e1e0.css133069281251256810 0
+58D:\Github\TestWeb\TestBoostrap\dist\index.3092e1e0.css.map133069281251276743 0
+60D:\Github\TestWeb\TestBoostrap\dist\LogoCatalog.04786d95.png133068456895842963 0
+62D:\Github\TestWeb\TestBoostrap\dist\LogoHourglass.1eebf6c3.png133068456895354383 0
+59D:\Github\TestWeb\TestBoostrap\dist\LogoLayers.943a146f.png133068456895962886 0
+61D:\Github\TestWeb\TestBoostrap\dist\LogoQuotient.9519472d.png133068456895334327 0
+61D:\Github\TestWeb\TestBoostrap\dist\LogoSisyphus.832b56f2.png133068456895324371 0
+70D:\Github\TestWeb\TestBoostrap\dist\Macbook Pro 16 mockup.b42e632b.png133068456895354383 0
+64D:\Github\TestWeb\TestBoostrap\dist\TestBoostrap.59712999.js.map133068456895444063 0

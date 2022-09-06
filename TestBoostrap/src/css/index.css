@@ -6,6 +6,10 @@ body {
     padding: 0px;
     font-family: Arial, Helvetica, sans-serif;
 }
+.Logo2 {
+    display: none;
+}
+
 .h2 {
     font-weight: 600;
     font-size: 36px;
@@ -197,6 +201,12 @@ body {
     color: #98A2B3;
   }
 @media only screen and (min-width:376px) {
+    .Logo2 {
+        display: block;
+    }
+    .navbar-toggler {
+        display: none;
+    }
    /*Section2*/
     .flex-container { 
         justify-content: center;
