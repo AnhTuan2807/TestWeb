@@ -287,6 +287,10 @@ body {
     display: block;
   }
 
+  .nav-right {
+    float: right;
+  }
+
   .navbar-toggler {
     display: none;
   }
@@ -339,6 +343,14 @@ body {
   .flex-container2 {
     justify-content: center;
     display: flex;
+  }
+
+  .light1 {
+    width: 60%;
+  }
+
+  .section6-content {
+    padding: 0 220px;
   }
 
   .myDIV {

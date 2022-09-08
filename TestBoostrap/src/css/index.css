@@ -204,8 +204,14 @@ body {
     .Logo2 {
         display: block;
     }
+    .nav-right {
+        
+    }
     .navbar-toggler {
         display: none;
+    }
+    .banner0 {
+        padding: 0 396px;
     }
    /*Section2*/
     .flex-container { 
@@ -239,6 +245,9 @@ body {
         font-size: 16px;
         line-height: 24px;
     }
+    .section3 > div > .H5 {
+        padding: 0 230px;
+    }
     .grid-container2 {
         display: grid;
         grid-template-columns: auto auto auto ;
@@ -252,6 +261,13 @@ body {
     .flex-container2 {
         display: flex;
         justify-content: center;
+    }
+    /*Section6*/
+    .light1 {
+        width: 60%;
+    }
+    .section6-content {
+        padding: 0 220px;
     }
     /*Section8*/
     .myDIV {
