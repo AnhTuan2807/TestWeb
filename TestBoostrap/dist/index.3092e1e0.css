@@ -287,12 +287,12 @@ body {
     display: block;
   }
 
-  .nav-right {
-    float: right;
-  }
-
   .navbar-toggler {
     display: none;
+  }
+
+  .banner0 {
+    padding: 0 396px;
   }
 
   .flex-container {
@@ -327,6 +327,10 @@ body {
   .section3_content {
     font-size: 16px;
     line-height: 24px;
+  }
+
+  .section3 > div > .H5 {
+    padding: 0 230px;
   }
 
   .grid-container2 {

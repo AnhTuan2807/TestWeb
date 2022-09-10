@@ -1,0 +1,37 @@
+@import url(button.css);
+@import url(img.css);
+
+body {
+    overflow-x: hidden;
+    margin: 0px;
+    padding: 0px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.container, .section1, .section2, .section3, .section4, .section5, .section6 , .section7 , .footer-top {
+  padding: 0 16px;
+}
+/*Header*/
+.header {
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  background-color: #1B2631;
+  padding: 20px 0;
+}
+.topnav {
+  overflow: hidden;
+  position: relative;
+  display: flex;
+  justify-content: space-between;
+}
+.topnav a {
+  color: #F7FAFC;
+  padding: 14px 16px;
+  text-decoration: none;
+  font-weight: 700;
+  font-size: 15px;
+  line-height: 32px;
+}
+.button {
+  display: flex;
+}
