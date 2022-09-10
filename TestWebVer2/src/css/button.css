@@ -1,14 +1,10 @@
 
-.button .button1 .button2 {
-    padding: 14px 16px;
-}
 .button1 {
     font-weight: 700;
     font-size: 15px;
     line-height: 32px;
-    color: #ffffff;
+    color: #F7FAFC;
     background-color: #1B2631;
-    border-radius: 8px;
     border: none;
     padding: 7px 0;
 }
@@ -20,11 +16,19 @@
     font-weight: 700;
     font-size: 15px;
     line-height: 24px;
-    padding: 7px 0;
+    padding: 10px;
+    color: #F7FAFC;
 }
 
 .button3 {
-    
+    border-color: linear-gradient(82.78deg, #1D8AF7 0%, #7A8CD6 50.52%, #F7861D 100%) ;
+    border-radius: 10px;
+    font-weight: 700;
+    font-size: 15px;
+    line-height: 24px;
+    padding: 10px;
+    background-color: #1B2631;
+    color: #F7FAFC;
 }
 
 .button5 {

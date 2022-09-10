@@ -7,6 +7,25 @@ body {
     padding: 0px;
     font-family: Arial, Helvetica, sans-serif;
 }
+.p {
+  font-size: 16px;
+  font-weight: 800;
+  line-height: 16px;
+  letter-spacing: 0.08em;
+  text-transform: uppercase;
+}
+.H1 {
+  font-size: 64px;
+  font-weight: 800;
+  line-height: 64px;
+  letter-spacing: 0px;
+}
+.H5 {
+  font-size: 22px;
+  font-weight: 300;
+  line-height: 31px;
+  letter-spacing: 0em;
+}
 .container, .section1, .section2, .section3, .section4, .section5, .section6 , .section7 , .footer-top {
   padding: 0 16px;
 }
@@ -16,7 +35,6 @@ body {
   justify-content: space-around;
   align-items: center;
   background-color: #1B2631;
-  padding: 20px 0;
 }
 .topnav {
   overflow: hidden;
@@ -34,4 +52,59 @@ body {
 }
 .button {
   display: flex;
+  align-items: center;
+  padding: 14px 16px;
+}
+.space {
+  padding: 0 15px;
+}
+
+/*Section*/
+.section {
+  text-align: left;
+  color: #F7FAFC;
+}
+.row {
+  padding: 20px 40px;
+}
+.banner-content {
+  background-color: #1B2631;
+  position: absolute;
+  width: 680px;
+  height: 605px;
+  left: 0px;
+  top: calc(50% - 228px/2);
+}
+.button1 {
+  display: flex;
+  align-items: center;
+}
+.row > .H1{
+  padding: 40px 0;
+}
+.row > .H5 {
+  padding-bottom: 40px;
+}
+
+/*Section1*/
+.flex-container {
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+}
+.grid-container {
+  display: grid;
+  grid-template-columns: auto auto auto;
+  gap: 50px;
+  text-align: center;
+  padding: 40px 0;
+}
+.Text {
+  font-weight: 800;
+  font-size: 44px;
+  line-height: 44px;
+  background: linear-gradient(45deg, #1D8AF7 0%, #7A8CD6 50%, #F7861D 100%);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  background-clip: text;
 }
