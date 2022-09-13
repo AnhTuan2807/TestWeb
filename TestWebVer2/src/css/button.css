@@ -31,8 +31,34 @@
     color: #F7FAFC;
 }
 
+.button4 {
+    font-weight: 700;
+    font-size: 16px;
+    line-height: 24px;
+    color: #F7FAFC;
+    background: linear-gradient(82.78deg, #1D8AF7 0%, #7A8CD6 50.52%, #F7861D 100%);
+    border-radius: 10px;
+    border: none;
+    padding: 10px;
+}
 .button5 {
+    font-weight: 700;
+    font-size: 15px;
+    line-height: 32px;
+    color: #F7FAFC;
+    background-color: #1B2631;
+    border: 1px solid #ffffff;
+    border-radius: 10px;
+    padding: 7px 0px;
+    width: 100%;
 }
 .button6 {
-
+    font-weight: 700;
+    font-size: 15px;
+    line-height: 32px;
+    background: linear-gradient(82.78deg, #1D8AF7 0%, #7A8CD6 50.52%, #F7861D 100%);
+    border: 1px solid #ffffff;
+    border-radius: 10px;
+    padding: 7px 0px;
+    width: 100%;
 }

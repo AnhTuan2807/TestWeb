@@ -14,11 +14,42 @@ body {
   letter-spacing: 0.08em;
   text-transform: uppercase;
 }
-.H1 {
+.H0 {
   font-size: 64px;
   font-weight: 800;
   line-height: 64px;
   letter-spacing: 0px;
+}
+.H1 {
+  font-size: 44px;
+  font-weight: 800;
+  line-height: 44px;
+  letter-spacing: 0px;
+  color: #F7FAFC;
+}
+.H2 {
+  font-size: 35px;
+  font-weight: 800;
+  line-height: 35px;
+  letter-spacing: 0px;
+  text-align: left;
+  color: #F7FAFC;
+}
+.H3 {
+  font-size: 28px;
+  font-weight: 300;
+  line-height: 39px;
+  letter-spacing: 0em;
+  text-align: left;
+  color: #F7FAFC;
+}
+.H4 {
+  font-size: 18px;
+  font-weight: 700;
+  line-height: 29px;
+  letter-spacing: 0em;
+  text-align: left;
+  color: #F7FAFC;
 }
 .H5 {
   font-size: 22px;
@@ -26,13 +57,58 @@ body {
   line-height: 31px;
   letter-spacing: 0em;
 }
-.container, .section1, .section2, .section3, .section4, .section5, .section6 , .section7 , .footer-top {
-  padding: 0 16px;
+.H6 {
+  font-size: 18px;
+  font-weight: 300;
+  line-height: 25px;
+  letter-spacing: 0em;
+  text-align: left;
+  color: #F7FAFC;
+}
+.H7 {
+  font-size: 16px;
+  font-weight: 300;
+  line-height: 22px;
+  letter-spacing: 0em;
+  text-align: left;
+  color: #F7FAFC;
+}
+.H8 {
+  font-size: 18px;
+  font-weight: 300;
+  line-height: 25px;
+  letter-spacing: 0em;
+  color: #F7FAFC;
+}
+.H9 {
+  font-size: 16px;
+  font-weight: 700;
+  line-height: 26px;
+  letter-spacing: 0em;
+  text-align: left;
+  color: #F7FAFC;
+}
+.H10 {
+  font-size: 16px;
+  font-weight: 800;
+  line-height: 16px;
+  letter-spacing: 0.08em;
+  color: #F7FAFC;
+}
+.H11 {
+  font-size: 14px;
+  font-weight: 700;
+  line-height: 22px;
+  letter-spacing: 0em;
+  color: #F7FAFC;
+}
+.container, .header, .section1, .section2, .section3, .section4, .section5, .section6 , .section7 , .footer-top {
+  padding: 0 80px;
 }
 /*Header*/
 .header {
   display: flex;
-  justify-content: space-around;
+  justify-content: space-between;
   align-items: center;
   background-color: #1B2631;
 }
@@ -87,12 +163,15 @@ body {
 }
 
 /*Section1*/
-.flex-container {
+.section1 {
+  background-color: #1B2631;
+}
+.flex-container1 {
   display: flex;
   justify-content: space-around;
   align-items: center;
 }
-.grid-container {
+.grid-container1 {
   display: grid;
   grid-template-columns: auto auto auto;
   gap: 50px;
@@ -107,4 +186,127 @@ body {
   -webkit-background-clip: text;
   -webkit-text-fill-color: transparent;
   background-clip: text;
+}
+.section1-left {
+  padding-right: 250px;
+}
+.section1-right {
+  padding-right: 50px;
+}
+
+/*Section2*/
+.section2 {
+  background-color: #1B2631;
+}
+.flex-container2 {
+  padding-top:40px ;
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+}
+.grid-container2 {
+  display: grid;
+  grid-template-columns: auto;
+  gap: 50px;
+  text-align: center;
+  padding: 40px 0;
+}
+.section2-right > .image2-right{
+  padding-bottom: 410px;
+}
+.section2-content > .H2 {
+  padding-right: 250px;
+}
+.section2-content > .H6 {
+  padding-top: 20px;
+  padding-bottom: 40px;
+  padding-right: 250px;
+}
+
+/*Section3*/
+.section3 {
+  background-color: #1B2631;
+}
+.section3-background {
+  padding: 100px 270px;
+}
+.section3-banner {
+  border: 1px solid #ffffff;
+  border-radius: 16px;
+  background: #22303E;;
+}
+.flex-container3 {
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  padding: 20px;
+}
+.flex-container3 > div:first-child {
+  padding-bottom: 125px;
+}
+.flex-container3 > div:last-child {
+  padding-left: 20px;
+}
+.flex-container3 > div > .H4 {
+  padding-top: 20px;
+}
+
+/*Section4*/
+.section4 {
+  background-color: #1B2631;
+  text-align: center !important;
+}
+.section4-content {
+  padding-bottom: 40px;
+}
+.section4-content > .H8 {
+  padding-top: 20px;
+  padding-bottom: 30px;
+}
+.section4-banner {
+  padding: 0px 590px;
+}
+.flex-container4 {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background: #22303E;
+  border-radius: 8px;
+  padding: 8px 12px;
+}
+.flex-container4 > div:last-child {
+  padding: 8px;
+}
+.monthly-background {
+  background: #1B2631;
+  border-radius: 12px;
+  padding: 8px 6px;
+}
+
+.grid-container4 {
+  display: grid;
+  grid-template-columns: auto auto auto;
+  gap: 50px;
+  text-align: left;
+}
+.pricing-basic, .pricing-plus, .pricing-premium {
+  background: #22303E;
+  border-radius: 16px;
+  padding: 20px;
+}
+.pricing-basic-banner > .H8 {
+  padding: 20px 0;
+}
+.pricing-plus-banner > .H8 {
+  padding: 20px 0;
+}
+.pricing-premium-banner > .H8 {
+  padding: 20px 0;
+}
+.basic , .plus, .premium{
+  display: flex;
+  align-items: center;
+}
+.img-space {
+  padding: 10px 0;;
 }
