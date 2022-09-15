@@ -261,13 +261,31 @@ hr {
   padding-right: 40px;
 }
 
+.section-content {
+  height: 100%;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-attachment: fixed;
+}
+
+.section-banner {
+  width: 100%;
+  min-height: 1000px;
+  background-image: url("Image.613e6504.png");
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-attachment: fixed;
+}
+
 .section {
   text-align: left;
   color: #f7fafc;
 }
 
 .row {
-  padding: 20px 40px;
+  padding: 40px;
 }
 
 .banner-content {
@@ -282,6 +300,14 @@ hr {
 .button1 {
   align-items: center;
   display: flex;
+}
+
+.row > .p {
+  padding: 40px 0;
+}
+
+.row > .H0 {
+  padding-bottom: 40px;
 }
 
 .row > .H1 {
