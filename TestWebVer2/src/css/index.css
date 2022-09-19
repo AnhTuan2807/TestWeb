@@ -1,11 +1,12 @@
 @import url(button.css);
 @import url(img.css);
 
+
 body {
     overflow-x: hidden;
     margin: 0px;
     padding: 0px;
-    font-family: Arial, Helvetica, sans-serif;
+    font-family: 'Poppins', sans-serif;
 }
 hr {
   border: 1px solid #F7FAFC;
@@ -137,6 +138,12 @@ hr {
   font-weight: 700;
   font-size: 15px;
   line-height: 32px;
+  border-radius: 50px;
+}
+.topnav > div > a:hover,
+.topnav > div > a:active {
+  background: #F7FAFC;
+  color: #1B2631;
 }
 .button {
   display: flex;
@@ -185,7 +192,7 @@ hr {
   align-items: center;
 }
 .row > .p {
-  padding: 40px 0;
+  padding: 30px 0;
 }
 .row > .H0 {
   padding-bottom: 40px ;
@@ -222,7 +229,7 @@ hr {
   -webkit-background-clip: text;
   -webkit-text-fill-color: transparent;
   background-clip: text;
-  padding-right: 300px;
+  padding-right: 305px;
 }
 .section1-left {
   padding-right: 250px;
@@ -273,7 +280,7 @@ hr {
   border-radius: 10px;
   padding: 2px;
   width: 800px;
-  height: 290px;
+  height: 330px;
 }
 .section3-banner-child {
   width: 100%;

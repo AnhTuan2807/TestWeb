@@ -1,8 +1,10 @@
 .button1 {
   color: #f7fafc;
+  cursor: pointer;
+  width: 100%;
   background-color: #1b2631;
   border: none;
-  padding: 7px 0;
+  padding: 7px 10px;
   font-size: 15px;
   font-weight: 700;
   line-height: 32px;
@@ -10,6 +12,7 @@
 
 .button2 {
   color: #f7fafc;
+  cursor: pointer;
   background: linear-gradient(82.78deg, #1d8af7 0%, #7a8cd6 50.52%, #f7861d 100%);
   border: none;
   border-radius: 10px;
@@ -23,6 +26,7 @@
 .button3 {
   width: 120px;
   height: 45px;
+  cursor: pointer;
   background-image: linear-gradient(82.78deg, #1d8af7 0%, #7a8cd6 50.52%, #f7861d 100%);
   border-radius: 10px;
   padding: 2px;
@@ -42,6 +46,7 @@
 
 .button4 {
   color: #f7fafc;
+  cursor: pointer;
   background: linear-gradient(82.78deg, #1d8af7 0%, #7a8cd6 50.52%, #f7861d 100%);
   border: none;
   border-radius: 10px;
@@ -54,6 +59,7 @@
 .button5 {
   width: 100%;
   height: 100%;
+  cursor: pointer;
   background-image: linear-gradient(82.78deg, #1d8af7 0%, #7a8cd6 50.52%, #f7861d 100%);
   border-radius: 10px;
   padding: 2px;
@@ -71,14 +77,22 @@
 }
 
 .button6 {
+  color: #f7fafc;
   width: 100%;
+  cursor: pointer;
   background: linear-gradient(82.78deg, #1d8af7 0%, #7a8cd6 50.52%, #f7861d 100%);
-  border: 1px solid;
+  border: none;
   border-radius: 10px;
   padding: 4.5px 0;
   font-size: 15px;
   font-weight: 700;
   line-height: 32px;
+}
+
+.button1:hover {
+  color: #1b2631;
+  background-color: #f7fafc;
+  border-radius: 10px;
 }
 
 .image1 {
@@ -99,7 +113,7 @@
 body {
   margin: 0;
   padding: 0;
-  font-family: Arial, Helvetica, sans-serif;
+  font-family: Poppins, sans-serif;
   overflow-x: hidden;
 }
 
@@ -244,11 +258,17 @@ hr {
 
 .topnav a {
   color: #f7fafc;
+  border-radius: 50px;
   padding: 14px 16px;
   font-size: 15px;
   font-weight: 700;
   line-height: 32px;
   text-decoration: none;
+}
+
+.topnav > div > a:hover, .topnav > div > a:active {
+  color: #1b2631;
+  background: #f7fafc;
 }
 
 .button {
@@ -303,7 +323,7 @@ hr {
 }
 
 .row > .p {
-  padding: 40px 0;
+  padding: 30px 0;
 }
 
 .row > .H0 {
@@ -343,7 +363,7 @@ hr {
   -webkit-text-fill-color: transparent;
   -webkit-background-clip: text;
   background-clip: text;
-  padding-right: 300px;
+  padding-right: 305px;
   font-size: 44px;
   font-weight: 800;
   line-height: 44px;
@@ -400,7 +420,7 @@ hr {
 
 .section3-banner {
   width: 800px;
-  height: 290px;
+  height: 330px;
   background-image: linear-gradient(82.78deg, #1d8af7 0%, #7a8cd6 50.52%, #f7861d 100%);
   border-radius: 10px;
   padding: 2px;
