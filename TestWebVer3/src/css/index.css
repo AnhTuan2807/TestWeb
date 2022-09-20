@@ -55,7 +55,237 @@ body {
     box-shadow: 0px 1px 2px rgba(16, 24, 40, 0.05);
 }
 
+/*btn-secondary-gray*/
+.btn-secondary-gray {
+    background-color: var(--White--);
+    border: 1px solid var(--Gray-300);
+    box-shadow: 0px 1px 2px rgba(16, 24, 40, 0.05);
+    border-radius: 8px;
+    cursor: pointer;
+}
+.btn-secondary-gray:hover {
+    background-color: var(--Gray-50);
+    border: 1px solid var(--Gray-300);
+}
+.btn-secondary-gray:active {
+    background-color: var(--White--);
+    border: 1px solid var(--Gray-300);
+    box-shadow: 0px 1px 2px rgba(16, 24, 40, 0.05), 0px 0px 0px 4px var(--Gray-100);
+}
+.btn-secondary-gray:disabled {
+    background-color: var(--White--);
+    border: 1px solid var(--Gray-200);
+    box-shadow: 0px 1px 2px rgba(16, 24, 40, 0.05);
+}
 
+/*btn-tertiary*/
+.btn-tertiary {
+    background-color: var(--White--);
+    border: none;
+    border-radius: 8px;
+    cursor: pointer;
+}
+.btn-tertiary:hover {
+    background-color: var(--Primary-50);
+}
+.btn-tertiary:active {
+    background-color: var(--White--);
+}
+.btn-tertiary:disabled {
+    background-color: var(--White--);
+}
+
+/*btn-tertiary-gray*/
+.btn-tertiary-gray {
+    background-color: var(--White--);
+    border: none;
+    border-radius: 8px;
+    cursor: pointer;
+}
+.btn-tertiary-gray:hover {
+    background-color: var(--Gray-50);
+    color: var(--Gray-600);
+}
+.btn-tertiary-gray:active {
+    background-color: var(--White--);
+    color: var(--Gray-500);
+}
+.btn-tertiary-gray:disabled {
+    background-color: var(--White--);
+    box-shadow: 0px 1px 2px rgba(16, 24, 40, 0.05);
+    color: var(--Gray-500);
+}
+
+/*btn-link-primary*/
+.btn-link-primary {
+    text-decoration: none;
+    cursor: pointer;
+}
+.btn-link-primary:hover {
+    color: var(--Primary-800);
+}
+.btn-link-primary:active {
+    color: var(--Primary-700);
+}
+.btn-link-primary:disabled {
+    background-color: var(--White--);
+    color: var(--Gray-300);
+    pointer-events: none;
+}
+
+/*btn-link-gray*/
+.btn-link-gray {
+    text-decoration: none;
+    cursor: pointer;
+}
+.btn-link-gray:hover {
+    color: var(--Gray-600);
+}
+.btn-link-gray:active {
+    color: var(--Gray-600);
+}
+.btn-link-gray:disabled {
+    background-color: var(--White--);
+    color: var(--Gray-300);
+}
+
+
+/*btn-primary-error*/
+.btn-primary-error {
+    background-color: var(--Error-600);
+    border: 1px solid var(--Error-600);
+    border-radius: 8px;
+    cursor: pointer;
+}
+.btn-primary-error:hover {
+    background-color: var(--Error-700);
+    border: 1px solid var(--Error-700);
+    box-shadow: 0px 1px 2px rgba(16, 24, 40, 0.05);
+}
+.btn-primary-error:active {
+    background-color: var(--Error-600);
+    border: 1px solid var(--Error-600);
+    box-shadow: 0px 1px 2px rgba(16, 24, 40, 0.05), 0px 0px 0px 4px var(--Error-100);
+}
+.btn-primary-error:disabled {
+    background-color: var(--Error-200);
+    border: 1px solid var(--Error-200);
+    box-shadow: 0px 1px 2px rgba(16, 24, 40, 0.05);
+}
+
+/*btn-secondary-error*/
+.btn-secondary-error {
+    background-color: var(--Error-50);
+    border: 1px solid var(--Error-50);
+    border-radius: 8px;
+    cursor: pointer;
+}
+.btn-secondary-error:hover {
+    background-color: var(--Error-100);
+    border: 1px solid var(--Error-100);
+    box-shadow: 0px 1px 2px rgba(16, 24, 40, 0.05);
+}
+.btn-secondary-error:active {
+    background-color: var(--Error-50);
+    border: 1px solid var(--Error-50);
+    box-shadow: 0px 1px 2px rgba(16, 24, 40, 0.05);
+}
+.btn-secondary-error:disabled {
+    background-color: var(--Error-25);
+    border: 1px solid var(--Error-25);
+    box-shadow: 0px 1px 2px rgba(16, 24, 40, 0.05);
+}
+
+/*btn-secondary-error2*/
+.btn-secondary-error2 {
+    background-color: var(--White--);
+    border: 1px solid var(--Error-300);
+    box-shadow: 0px 1px 2px rgba(16, 24, 40, 0.05);
+    border-radius: 8px;
+    cursor: pointer;
+}
+.btn-secondary-error2:hover {
+    background-color: var(--Error-50);
+    border: 1px solid var(--Error-300);
+    box-shadow: 0px 1px 2px rgba(16, 24, 40, 0.05);
+}
+.btn-secondary-error2:active {
+    background-color: var(--White--);
+    border: 1px solid var(--Error-300);
+    box-shadow: 0px 1px 2px rgba(16, 24, 40, 0.05), 0px 0px 0px 4px var(--Error-100);
+}
+.btn-secondary-error2:disabled {
+    background-color: var(--White--);
+    border: 1px solid var(--Error-200);
+    box-shadow: 0px 1px 2px rgba(16, 24, 40, 0.05);
+}
+/*btn-btn-tertiary-error*/
+.btn-tertiary-error {
+    background-color: var(--White--);
+    border: none;
+    cursor: pointer;
+}
+.btn-tertiary-error:hover {
+    background: var(--Error-50);
+    border-radius: 8px; 
+}
+.btn-tertiary-error:active {
+    background-color: var(--White--);  
+    border: none; 
+}
+.btn-tertiary-error:disabled {
+    background-color: var(--White--);
+    border: none;
+}
+
+/*btn-tertiary-gray2*/
+.btn-tertiary-gray2 {
+    background-color: var(--White--);
+    border: none;
+    cursor: pointer;
+}
+.btn-tertiary-gray2:hover {
+    background-color: var(--Error-50);
+    border-radius: 8px;
+    color: var(--Error-800);
+}
+.btn-tertiary-gray2:active {
+    background-color: var(--White--);
+}
+.btn-tertiary-gray2:disabled {
+    background-color: var(--White--);
+    color: var(--Error-300);
+}
+/*btn-link-error2*/
+.btn-link-error2 {
+    text-decoration: none;
+    cursor: pointer;
+}
+.btn-link-error2:hover {
+    color: var(--Error-800);
+}
+.btn-link-error2:active {
+    color: var(--Error-700);
+}
+.btn-link-error2:disabled {
+    background-color: var(--White--);
+    color: var(--Error-300);
+}
+/*btn-link-gray2*/
+.btn-link-gray2 {
+    text-decoration: none;
+    cursor: pointer;
+}
+.btn-link-gray2:hover {
+    color: var(--Error-800);
+}
+.btn-link-gray2:active {
+    color: var(--Error-700);
+}
+.btn-link-gray2:disabled {
+    background-color: var(--White--);
+    color: var(--Error-300);
+}
 /*Typography*/
 /* Display 2xl */
 .Display-2xl-Regular {

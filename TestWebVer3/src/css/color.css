@@ -1,6 +1,6 @@
 :root {
 
-
+    --White--:#FFFFFF;
     --Gray-25: #FCFCFD;
     --Gray-50: #F9FAFB;
     --Gray-100: #F2F4F7;
@@ -601,9 +601,23 @@
     color: var(--Orange-900);
 }
 
-
+.--Primary {
+    color: var(--Primary-300);
+    background-color: var(--Primary-300);
+    border-radius: 10px;
+}
 .--Success {
     color: var(--Success-500);
     background-color: var(--Success-500);
+    border-radius: 10px;
+}
+.--Gray {
+    color: var(--Gray-300);
+    background-color: var(--Gray-300);
+    border-radius: 10px;
+}
+.--Error {
+    color: var(--Error-300);
+    background-color: var(--Error-300);
     border-radius: 10px;
 }

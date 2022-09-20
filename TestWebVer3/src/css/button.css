@@ -18,9 +18,20 @@
 .text-white {
     color: #ffffff;
 }
-.text-primary {
+.text-primary-700 {
     color: var(--Primary-700);
 }
-.text-gray {
-    color: var(--Gray-700)
+.text-gray-500 {
+    color: var(--Gray-500);
+}
+.text-gray-700 {
+    color: var(--Gray-700);
+}
+.text-gray-300 {
+    color: var(--Gray-300);
+}
+.text-error-700 {
+    color: var(--Error-700);
+}.text-error-300 {
+    color: var(--Error-300);
 }
