@@ -834,7 +834,9 @@
     line-height: 18px;
 }
 
-
+.--White-- {
+    color: var(--White--);
+}
 .--Primary {
     color: var(--Primary-300);
     background-color: var(--Primary-300);

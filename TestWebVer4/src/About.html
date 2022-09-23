@@ -305,88 +305,119 @@
         <div class="container"><hr class="light"/></div>
         <section id="section6">
             <div class="container">
-                <div>
+                <div class="space">
                     <div class="Text-sm-Semibold --Primary-700">Contact us</div>
-                    <div class="Display-sm-Semibold --Gray-900">Get in touch</div>
+                    <div class="Display-sm-Semibold --Gray-900 space">Get in touch</div>
                     <div class="Text-lg-Regular --Gray-500">We’d love to hear from you. Please fill out this form.</div>
                 </div>
-                <div>
+                <div class="st6-form">
                     <form>
-                        <label class="Text-sm-Medium" for="fname">First name:</label><br/>
-                        <input class="Text-md-Regular" type="text" id="fname" name="fname" value="First name"/><br/><br>
-                        <label class="Text-sm-Medium" for="lname">Last name:</label><br/>
-                        <input class="Text-md-Regular" type="text" id="lname" name="lname" value="Last name"/><br><br/>
-                        <label class="Text-sm-Medium" for="email">Enter your email:</label><br/>
-                        <input class="Text-md-Regular" type="email" id="email" name="email"/><br/><br/>
-                        <label class="Text-sm-Medium" for="quantity">Phone Number</label><br/>
-                        <input class="Text-md-Regular" type="number" id="quantity" name="quantity" value="+1 (555) 000-0000"/>
-                      </form>
+                        <div class="flex-space-between">
+                            <div>
+                                <label class="Text-sm-Medium --Gray-700" for="fname">First name:</label><br/>
+                                <input class="Text-md-Regular" type="text" id="fname" name="fname" value="First name"/><br/><br>
+                            </div>
+                            <div>
+                                <label class="Text-sm-Medium --Gray-700" for="lname">Last name:</label><br/>
+                                <input class="Text-md-Regular" type="text" id="lname" name="lname" value="Last name"/><br><br/>
+                            </div>
+                        </div>
+                        <label class="Text-sm-Medium --Gray-700" for="email">Enter your email:</label><br/>
+                        <input class="Text-md-Regular" type="email" id="email" name="email" value="you@company.com"/><br/><br/>
+                        <label class="Text-sm-Medium --Gray-700" for="quantity">Phone Number</label><br/>
+                        <input class="Text-md-Regular" type="number" id="quantity" name="quantity" value="+1 (555) 000-0000"/><br/><br/>
+                        <label class="Text-sm-Medium --Gray-700" for="message">Message:</label><br/>
+                        <form>
+                            <textarea>...</textarea>
+                        </form><br/>
+                    </form>
+                    <div class="input_field checkbox_option">
+                        <input type="checkbox" required="">
+                        <label class="Text-md-Regular --Gray-500" for="yesorno" value="1">I agree with terms and conditions</label>
+                    </div><br/>
+                    <input class="Text-md-Medium --White--" type="submit" value="Send message"> 
+                </div>
+            </div><br/><br/><br/>
+            <div class="container"><hr class="light"/></div>
+            <div>
+                <div class="row1">
+                    <div class="Text-md-Medium --Gray-500 space">We’ve been mentioned in the press</div>
+                    <div class="flex-space-between container space">
+                        <div><img src="./img/VectorTheWashingtonPost.png" alt="img"/></div>
+                        <div><img src="./img/VectorTechCrunch.png" alt="img"/></div>
+                        <div><img src="./img/VectorBloomberg.png" alt="img"/></div>
+                        <div><img src="./img/VectorGizmodo.png" alt="img"/></div>
+                        <div><img src="./img/VectorForbes.png" alt="img"/></div>
+                    </div>
                 </div>
             </div>
         </section>
         <footer class="footer-top">
             <div class="space">
+                <div class="container"><hr class="light1"/></div>
                 <div class="grid-container1">
                     <div>
-                        <div class="p1">Product</div>
-                        <div class="p2">Overview</div>
-                        <div>Features</div>
-                        <div class="p2">Solutions</div>
-                        <div>Tutorials</div>
-                        <div class="p2">Pricing</div>
-                        <div>Releases</div>
+                        <div class="Text-md-Regular --Primary-400">Product</div>
+                        <div class="Text-md-Medium --Primary-200 p2">Overview</div>
+                        <div class="Text-md-Medium --Primary-200">Features</div>
+                        <div class="Text-md-Medium --Primary-200 p2">Solutions</div>
+                        <div class="Text-md-Medium --Primary-200">Tutorials</div>
+                        <div class="Text-md-Medium --Primary-200 p2">Pricing</div>
+                        <div class="Text-md-Medium --Primary-200">Releases</div>
                     </div>
                     <div>
-                        <div class="p1">Company</div>
-                        <div class="p2">About us</div>
-                        <div class="">Careers</div>
-                        <div class="p2">Press</div>
-                        <div class="">News</div>
-                        <div class="p2">Media kit</div>
-                        <div class="">Contact</div>
+                        <div class="Text-md-Regular --Primary-400">Company</div>
+                        <div class="Text-md-Medium --Primary-200 p2">About us</div>
+                        <div class="Text-md-Medium --Primary-200">Careers</div>
+                        <div class="Text-md-Medium --Primary-200 p2">Press</div>
+                        <div class="Text-md-Medium --Primary-200">News</div>
+                        <div class="Text-md-Medium --Primary-200 p2">Media kit</div>
+                        <div class="Text-md-Medium --Primary-200">Contact</div>
                     </div>
                     <div>
-                        <div class="p1">Resources</div>
-                        <div class="p2">Blog</div>
-                        <div class="">Newsletter</div>
-                        <div class="p2">Events</div>
-                        <div class="">Help centre</div>
-                        <div class="p2">Tutorials</div>
-                        <div class="">Support</div>
+                        <div class="Text-md-Regular --Primary-400">Resources</div>
+                        <div class="Text-md-Medium --Primary-200 p2">Blog</div>
+                        <div class="Text-md-Medium --Primary-200">Newsletter</div>
+                        <div class="Text-md-Medium --Primary-200 p2">Events</div>
+                        <div class="Text-md-Medium --Primary-200">Help centre</div>
+                        <div class="Text-md-Medium --Primary-200 p2">Tutorials</div>
+                        <div class="Text-md-Medium --Primary-200">Support</div>
                     </div>
                     <div>
-                        <div class="p1">Use cases</div>
-                        <div class="p2">Startups</div>
-                        <div class="">Enterprise</div>
-                        <div class="p2">Government</div>
-                        <div class="">SaaS</div>
-                        <div class="p2">Marketplaces</div>
-                        <div class="">Ecommerce</div>
+                        <div class="Text-md-Regular --Primary-400">Use cases</div>
+                        <div class="Text-md-Medium --Primary-200 p2">Startups</div>
+                        <div class="Text-md-Medium --Primary-200">Enterprise</div>
+                        <div class="Text-md-Medium --Primary-200 p2">Government</div>
+                        <div class="Text-md-Medium --Primary-200">SaaS</div>
+                        <div class="Text-md-Medium --Primary-200 p2">Marketplaces</div>
+                        <div class="Text-md-Medium --Primary-200">Ecommerce</div>
                     </div>
                     <div>
-                        <div class="p1">Social</div>
-                        <div class="p2">Twitter</div>
-                        <div class="">LinkedIn</div>
-                        <div class="p2">Facebook</div>
-                        <div class="">GitHub</div>
-                        <div class="p2">AngelList</div>
-                        <div class="">Dribbble</div>
+                        <div class="Text-md-Regular --Primary-400">Social</div>
+                        <div class="Text-md-Medium --Primary-200 p2">Twitter</div>
+                        <div class="Text-md-Medium --Primary-200">LinkedIn</div>
+                        <div class="Text-md-Medium --Primary-200 p2">Facebook</div>
+                        <div class="Text-md-Medium --Primary-200">GitHub</div>
+                        <div class="Text-md-Medium --Primary-200 p2">AngelList</div>
+                        <div class="Text-md-Medium --Primary-200">Dribbble</div>
                     </div>
                     <div>
-                        <div class="p1">Legal</div>
-                        <div class="p2">Terms</div>
-                        <div class="">Privacy</div>
-                        <div class="p2">Cookies</div>
-                        <div class="">Licenses</div>
-                        <div class="p2">Settings</div>
-                        <div class="">Contact</div>
+                        <div class="Text-md-Regular --Primary-400">Legal</div>
+                        <div class="Text-md-Medium --Primary-200 p2">Terms</div>
+                        <div class="Text-md-Medium --Primary-200">Privacy</div>
+                        <div class="Text-md-Medium --Primary-200 p2">Cookies</div>
+                        <div class="Text-md-Medium --Primary-200">Licenses</div>
+                        <div class="Text-md-Medium --Primary-200 p2">Settings</div>
+                        <div class="Text-md-Medium --Primary-200">Contact</div>
                     </div>
                 </div>
-            </div><hr class="light"/>
+            </div><div class="container"><hr class="light1"/></div>
             
             <div class="footer-bottom">
-                <div><img src="./img/Logo.png" alt="img"/></div>
-                <div class="footer-content">© 2077 Untitled UI. All rights reserved.</div>
+                <div class="flex-space-between container">
+                    <div class="--White--"><img src="./img/Logowrap.png" alt="img"/></div>
+                    <div class="footer-content --Primary-300">© 2077 Untitled UI. All rights reserved.</div>
+                </div>
             </div>
         </footer>
         
